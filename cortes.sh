@@ -1,4 +1,4 @@
-# Mc_Cortex_Adapt
+# Mc_Cortex_Adapt.sh
 
 
 #Building cortex graphs
